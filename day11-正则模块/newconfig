@@ -1,0 +1,16 @@
+[DEFAULT]
+serveraliveinterval = 45
+compression = helloword
+compressionlevel = 9
+forwardx11 = yesmyword
+
+[bitbucket.org]
+
+[topsecret.server.com]
+host port = 50022
+forwardx11 = no
+
+[add]
+k1 = 1111
+k2 = k222
+

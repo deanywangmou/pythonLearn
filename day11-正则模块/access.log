@@ -1,0 +1,16 @@
+2019-05-01 21:23:49 PM - root - DEBUG -logger模块2:  调试debug
+2019-05-01 21:23:49 PM - root - INFO -logger模块2:  消息info
+2019-05-01 21:23:49 PM - root - WARNING -logger模块2:  警告warn
+2019-05-01 21:23:49 PM - root - ERROR -logger模块2:  错误error
+2019-05-01 21:23:49 PM - root - CRITICAL -logger模块2:  严重critical
+2019-05-01 21:24:32 PM - root - CRITICAL -logger模块2:  严重critical
+2019-05-01 21:33:38 PM - root - DEBUG -logger模块2:  调试debug
+2019-05-01 21:33:38 PM - root - INFO -logger模块2:  消息info
+2019-05-01 21:33:38 PM - root - WARNING -logger模块2:  警告warn
+2019-05-01 21:33:38 PM - root - ERROR -logger模块2:  错误error
+2019-05-01 21:33:38 PM - root - CRITICAL -logger模块2:  严重critical
+2019-05-01 21:43:10 PM - root - DEBUG -logger模块2:  调试debug
+2019-05-01 21:43:10 PM - root - INFO -logger模块2:  消息info
+2019-05-01 21:43:10 PM - root - WARNING -logger模块2:  警告warn
+2019-05-01 21:43:10 PM - root - ERROR -logger模块2:  错误error
+2019-05-01 21:43:10 PM - root - CRITICAL -logger模块2:  严重critical
