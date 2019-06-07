@@ -3,28 +3,29 @@ import pymysql
 conn = pymysql.connect(host='127.0.0.1', port=3306, user='root', passwd='root', db='pythonLearn')
 curson = conn.cursor(cursor=pymysql.cursors.DictCursor)  # 更改获取数据结果的数据类型,默认是元组,可以改为字典
 
-sql = "CREATE TABLE IF NOT EXISTS ACCOUNT(id INT, name VARCHAR(20))"
+# sql = "CREATE TABLE IF NOT EXISTS ACCOUNT(id INT, name VARCHAR(20),balance DOUBLE )"
 # curson.execute(sql)
 
+try:
+    insertSQL0="INSERT INTO ACCOUNT (id,name,balance) VALUES (1,'wangmou',26000),(2,'cherry',16000)"
+    insertSQL1="UPDATE account set balance=balance-5000 WHERE name='wangmou'"
+    insertSQL2="UPDATE account set balance=balance+5000 WHERE name='cherry'"
 
-# insertSql="INSERT INTO EMPLOYEE VALUES (1,'wangmou'),(2,'deany')"
-#
-# ret=curson.execute(insertSql)
-# print(ret)    # 2
+    cursor = conn.cursor()
 
-ret=curson.execute("SELECT  * FROM  EMPLOYEE")
-print(ret)
+    cursor.execute(insertSQL0)
+    conn.commit()
 
-print(curson.fetchone())
-print(curson.fetchone())
-# print(curson.fetchall())
+    cursor.execute(insertSQL1)
+    raise Exception
+    cursor.execute(insertSQL2)
+    cursor.close()
+    conn.commit()
 
-curson.scroll(-1,mode='relative')  # 相对当前位置移动,-1向上移，1向下移
-print(curson.fetchone())
-curson.scroll(2,mode='absolute') # 相对绝对位置移动
-print(curson.fetchone())
-print(curson.fetchmany(3))
+except Exception as e:
 
-conn.commit()  # 插入语句必须要commit
+    conn.rollback()
+    conn.commit()
+
 curson.close()
 conn.close()
