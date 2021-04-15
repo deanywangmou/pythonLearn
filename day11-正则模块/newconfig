@@ -1,8 +1,8 @@
 [DEFAULT]
 serveraliveinterval = 45
-compression = helloword
+compression = yes
 compressionlevel = 9
-forwardx11 = yesmyword
+forwardx11 = yes
 
 [bitbucket.org]
 

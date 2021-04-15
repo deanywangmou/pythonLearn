@@ -2,6 +2,7 @@
 import hashlib
 
 obj = hashlib.md5()
+print(obj)
 obj.update('hello'.encode('utf8'))
 print(obj.hexdigest())
 

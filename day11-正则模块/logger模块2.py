@@ -1,7 +1,8 @@
 # coding=utf-8
 import logging
 logging.basicConfig(filename='access.log',
-                    format='%(asctime)s - %(name)s - %(levelname)s -%(module)s:  %(message)s',
+                    # filemode='w',  #只写，不追加
+                    format='%(asctime)s - %(filename)s - %(levelname)s -%(module)s:  %(message)s',
                     datefmt='%Y-%m-%d %H:%M:%S %p',
                     level=10)
 

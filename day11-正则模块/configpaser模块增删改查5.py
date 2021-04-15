@@ -22,7 +22,7 @@ print(config.items(
     'topsecret.server.com'))  # [('serveraliveinterval', '45'), ('compression', 'yes'), ('compressionlevel', '9'),
 # ('forwardx11', 'no'), ('host port', '50022')]
 
-print(config.get('topsecret.server.com', 'compression'))  # helloword
+print(config.get('topsecret.server.com', 'compression'))  # yes
 
 # -----------------------------------------------------------删改查
 config.add_section('add')

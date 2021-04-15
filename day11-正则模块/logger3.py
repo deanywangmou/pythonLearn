@@ -5,7 +5,7 @@ logger = logging.getLogger()
 fh = logging.FileHandler('log.log')  # FileHandler用来打印到文件中
 ch = logging.StreamHandler()  # StreamHandler用来打印到终端
 
-fm = logging.Formatter("%(asctime)s  %(message)s")
+fm = logging.Formatter("%(asctime)s %(filename)s %(message)s")
 fh.setFormatter(fm)
 ch.setFormatter(fm)
 

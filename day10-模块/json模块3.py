@@ -1,10 +1,12 @@
 # coding=utf-8
 import json
 
-dic = {'name': 'deany'}
+dic ={'name': 'deany'}
 data = json.dumps(dic)  # 单引号会变成双引号,等同于
 print(data)
 print(type(data))
+data1=json.loads(data) #json字符串转换成字典格式
+print(type(data1),data1)
 
 f_write = open('demo', 'w')
 st = json.dumps(dic)  # ------->
