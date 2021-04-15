@@ -1,49 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29c22d8e-fae0-44e8-b8da-2d4e117892f5" name="Default Changelist" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day5-文件处理/test.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习/vcard2.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EVN/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis操作/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EVN/database.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day28-数据库/getEnviron.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EVN/host.env" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习/interface.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/pythonLearn.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EVN/redis.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis操作/redis读操作1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习/request.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习/sendEmail.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day5-文件处理/将数据写入excel表格.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习/练习1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习/读取excel表格.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/day5-文件处理/读取excel表格8.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day11-正则模块/access.log" afterPath="$PROJECT_DIR$/day11-正则模块/access.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day11-正则模块/configpaser模块增删改查5.py" afterPath="$PROJECT_DIR$/day11-正则模块/configpaser模块增删改查5.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day11-正则模块/example.ini" afterPath="$PROJECT_DIR$/day11-正则模块/example.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day11-正则模块/hashlib模块6.py" afterPath="$PROJECT_DIR$/day11-正则模块/hashlib模块6.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day10-模块/json模块3.py" afterPath="$PROJECT_DIR$/day10-模块/json模块3.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day11-正则模块/log.log" afterPath="$PROJECT_DIR$/day11-正则模块/log.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day11-正则模块/logger模块2.py" afterPath="$PROJECT_DIR$/day11-正则模块/logger模块2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day9-模块/model/main.py" afterPath="$PROJECT_DIR$/day9-模块/model/main.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day11-正则模块/newconfig" afterPath="$PROJECT_DIR$/day11-正则模块/newconfig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day11-正则模块/re模块1.py" afterPath="$PROJECT_DIR$/day11-正则模块/re模块1.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day5-文件处理/test.txt" afterPath="$PROJECT_DIR$/day5-文件处理/test.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day8-模块/test0.py" afterPath="$PROJECT_DIR$/day8-模块/test0.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day9-模块/time模块1.py" afterPath="$PROJECT_DIR$/day9-模块/time模块1.py" />
+    <list default="true" id="29c22d8e-fae0-44e8-b8da-2d4e117892f5" name="Default Changelist" comment="Default Changelist">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day28-数据库/事务2.py" afterPath="$PROJECT_DIR$/day28-数据库/事务2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day28-数据库/数据库操作1.py" afterPath="$PROJECT_DIR$/day28-数据库/数据库操作1.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day5-文件处理/文件处理模式b模式5.py" afterPath="$PROJECT_DIR$/day5-文件处理/文件处理模式b模式5.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day5-文件处理/陈粒2" afterPath="$PROJECT_DIR$/day5-文件处理/陈粒2" />
-      <change type="MOVED" beforePath="E:\gitdocment\pythonLearn\day11-正则模块\logger对象3.py" afterPath="$PROJECT_DIR$/day11-正则模块/logger3.py" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -160,8 +119,8 @@
       <file leaf-file-name="多进程2.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/day18-多进程/多进程2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.427065">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.4745167">
+              <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -1062,7 +1021,13 @@
       <option name="project" value="LOCAL" />
       <updated>1559897920222</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Default Changelist">
+      <created>1618499458673</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1618499458673</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -1072,16 +1037,17 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14278187" sideWeight="0.49891067" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284055" sideWeight="0.5041929" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998884" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32887402" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998884" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33333334" sideWeight="0.49580714" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1456777" sideWeight="0.50108933" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32887402" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14278187" sideWeight="0.49891067" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998884" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1456777" sideWeight="0.50108933" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1456777" sideWeight="0.50108933" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39910814" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1112,7 +1078,8 @@
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="Default Changelist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1566,8 +1533,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day18-多进程/多进程2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.427065">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.4745167">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
           <folding />
         </state>
       </provider>
