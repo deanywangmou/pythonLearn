@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>表单标签form</title>
+</head>
+<body>
+    <h1>注册页面</h1>
+
+
+    <form action="http://127.0.0.1:8090/index"  method="post"  enctype="multipart/form-data">   <!-- 上传文件必须要用enctype="multipart/form-data" 进行分段上传   -->
+        <p>姓名<input type="text" name="usurname" placeholder="姓名" disabled></p>
+        <p>密码<input type="password" name="password" placeholder="密码" readonly></p>
+        <p>爱好：音乐<input type="checkbox" name="hobby" value="music"  checked>
+        电影<input type="checkbox" name="hobby" value="movie"  checked></p>
+
+        <p>性别：男<input type="radio" name="gender" value="men">女<input type="radio" name="gender" value="women">  </p>
+
+        省份<select name="provice" multiple  size="2">
+             <option value="beijing">北京市</option>
+             <option value="fuzhou">抚州市</option>
+             <option value="jiangxi" selected="selected">江西省</option>
+             <option value="fujian">福建省</option>
+             <option value="shenzhen">深圳市</option>
+        </select>
+
+        <br>
+        <br>
+        <br>
+
+
+        城市<select name="city" multiple  size="2">
+            <optgroup label="江西省">
+                 <option value="beijing">金溪市</option>
+                 <option value="fuzhou">抚州市</option>
+                 <option value="jiangxi" selected="selected">黎川市</option>
+                 <option value="fujian">丰城市</option>
+                 <option value="shenzhen">崇仁市</option>
+            </optgroup>
+        </select>
+        <br>
+        <br>
+
+        简介<textarea name="desc" rows="10" cols="20"></textarea>
+
+
+        <p><input type="file" name="put_file"></p>
+        <p><input type="reset" value="重置"></p>
+        <p><input type="button" value="提交注册"></p>
+        <p><input type="submit" value="提交注册"></p>
+
+    </form>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
