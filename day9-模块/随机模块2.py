@@ -11,5 +11,3 @@ print(random.uniform(1, 4))  # 取出1~4之间任意的浮点型
 ret = [1, 4, 8, 9, 3, 2]
 random.shuffle(ret)  # 将顺序打乱
 print(ret)
-
-
