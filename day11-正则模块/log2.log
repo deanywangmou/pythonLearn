@@ -1,0 +1,9 @@
+2021-05-05-18:56:52 解决多次打印log信息.py INFO 1+2之和为3
+2021-05-05-18:57:47 解决多次打印log信息.py INFO 1+2之和为3
+2021-05-05-18:57:47 解决多次打印log信息.py ERROR m+2计算错误can only concatenate str (not "int") to str
+2021-05-05-18:58:07 解决多次打印log信息.py INFO 1+2之和为3
+2021-05-05-18:58:07 解决多次打印log信息.py ERROR m+2计算错误can only concatenate str (not "int") to str
+2021-05-05-18:58:07 解决多次打印log信息.py INFO m+55之和为m55
+2021-05-05-18:58:16 解决多次打印log信息.py INFO 1+2之和为3
+2021-05-05-18:58:16 解决多次打印log信息.py ERROR m+2计算错误can only concatenate str (not "int") to str
+2021-05-05-18:58:16 解决多次打印log信息.py ERROR m+55计算错误can only concatenate str (not "int") to str

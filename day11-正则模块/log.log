@@ -48,3 +48,30 @@
 2021-04-11 11:54:54,566 root ¾¯¸æwarn
 2021-04-11 11:54:54,566 root ´íÎóerror
 2021-04-11 11:54:54,567 root ÑÏÖØcritical
+2021-05-05 18:13:46,714 logger3.py µ÷ÊÔdebug
+2021-05-05 18:13:46,725 logger3.py ÏûÏ¢info
+2021-05-05 18:13:46,725 logger3.py ¾¯¸æwarn
+2021-05-05 18:13:46,726 logger3.py ´íÎóerror
+2021-05-05 18:13:46,726 logger3.py ÑÏÖØcritical
+2021-05-05-18:17:48 logger3.py DEBUG µ÷ÊÔdebug
+2021-05-05-18:17:48 logger3.py INFO ÏûÏ¢info
+2021-05-05-18:17:48 logger3.py WARNING ¾¯¸æwarn
+2021-05-05-18:17:48 logger3.py ERROR ´íÎóerror
+2021-05-05-18:17:48 logger3.py CRITICAL ÑÏÖØcritical
+2021-05-05-18:17:55 logger3.py DEBUG µ÷ÊÔdebug
+2021-05-05-18:17:55 logger3.py INFO ÏûÏ¢info
+2021-05-05-18:17:55 logger3.py WARNING ¾¯¸æwarn
+2021-05-05-18:17:55 logger3.py ERROR ´íÎóerror
+2021-05-05-18:17:55 logger3.py CRITICAL ÑÏÖØcritical
+2021-05-05-18:24:25 logger3.py DEBUG è°ƒè¯•debug
+2021-05-05-18:24:25 logger3.py INFO æ¶ˆæ¯info
+2021-05-05-18:24:25 logger3.py WARNING è­¦å‘Šwarn
+2021-05-05-18:24:25 logger3.py ERROR é”™è¯¯error
+2021-05-05-18:24:25 logger3.py CRITICAL ä¸¥é‡critical
+2021-05-05-18:44:23 logger3.py INFO 1+2ä¹‹å’Œä¸º3
+2021-05-05-18:46:15 logger3.py ERROR m+2è®¡ç®—é”™è¯¯
+2021-05-05-18:46:46 logger3.py ERROR m+2è®¡ç®—é”™è¯¯can only concatenate str (not "int") to str
+2021-05-05-18:49:43 logger3.py INFO 1+2ä¹‹å’Œä¸º3
+2021-05-05-18:49:43 logger3.py ERROR m+2è®¡ç®—é”™è¯¯can only concatenate str (not "int") to str
+2021-05-05-18:49:43 logger3.py ERROR m+2è®¡ç®—é”™è¯¯can only concatenate str (not "int") to str
+2021-05-05-18:56:39 è§£å†³å¤šæ¬¡æ‰“å°logä¿¡æ¯.py INFO 1+2ä¹‹å’Œä¸º3
