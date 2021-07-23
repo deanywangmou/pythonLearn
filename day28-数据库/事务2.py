@@ -1,6 +1,6 @@
 import pymysql
 
-conn = pymysql.connect(host='172.30.2.166', port=3306, user='yunjidb', passwd='yunjiDb123', db='pythonLearn')
+conn = pymysql.connect(host='ip', port=3306, user='tttest', passwd='tttest', db='pythonLearn')
 curson = conn.cursor(cursor=pymysql.cursors.DictCursor)  # 更改获取数据结果的数据类型,默认是元组,可以改为字典
 
 # sql = "CREATE TABLE IF NOT EXISTS ACCOUNT(id INT, name VARCHAR(20),balance DOUBLE )"
