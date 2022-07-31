@@ -17,7 +17,7 @@ def md5EncryptTolower(password):
 
 
 def  test_login():
-    url="https://user-do-dev.yunjiglobal.com/yunjiuserapp/userapp/verifyEncryption.json"
+    url=""
     headers={"Content-Type": "application/x-www-form-urlencoded"}
     appusername= "18600000003"
     apppassword= "1"
