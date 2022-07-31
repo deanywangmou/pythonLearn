@@ -2,46 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29c22d8e-fae0-44e8-b8da-2d4e117892f5" name="Default Changelist" comment="Default Changelist">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5-文件处理/文件处理其他操作4.py" beforeDir="false" afterPath="$PROJECT_DIR$/day5-文件处理/文件处理其他操作4.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="demo" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="xmindToExcel2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/面试/xmindToExcel2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="xmindToExcel.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/面试/xmindToExcel.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.12903225">
-              <caret line="70" column="46" selection-start-line="70" selection-start-column="46" selection-end-line="70" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -128,9 +101,6 @@
       </list>
     </option>
   </component>
-  <component name="NamedScopeManager">
-    <order />
-  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
@@ -139,14 +109,7 @@
   </component>
   <component name="ProjectId" id="2CNW633y29Qe8YW6qo1Rc0gkeJf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
     <ConfirmationsSetting value="2" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -618,7 +581,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
@@ -628,6 +590,7 @@
       <changelist id="29c22d8e-fae0-44e8-b8da-2d4e117892f5" name="Default Changelist" comment="" />
       <created>1557969944149</created>
       <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
       <updated>1557969944149</updated>
       <workItem from="1557969945277" duration="177000" />
       <workItem from="1557970123403" duration="7000" />
@@ -687,46 +650,54 @@
       <workItem from="1603444300882" duration="2294000" />
       <workItem from="1658643346703" duration="962000" />
       <workItem from="1659249288583" duration="586000" />
+      <workItem from="1659250250995" duration="1764000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1559897286601</created>
       <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
       <updated>1559897286601</updated>
     </task>
     <task id="LOCAL-00002" summary="1">
       <created>1559897572728</created>
       <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
       <updated>1559897572728</updated>
     </task>
     <task id="LOCAL-00003" summary="1">
       <created>1559897920222</created>
       <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1559897920222</updated>
     </task>
     <task id="LOCAL-00004" summary="Default Changelist">
       <created>1618499458673</created>
       <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
       <updated>1618499458673</updated>
     </task>
     <task id="LOCAL-00005" summary="Default Changelist">
       <created>1618499595770</created>
       <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
       <updated>1618499595770</updated>
     </task>
     <task id="LOCAL-00006" summary="Default Changelist">
       <created>1659249339082</created>
       <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
       <updated>1659249339082</updated>
     </task>
     <task id="LOCAL-00007" summary="Default Changelist">
       <created>1659249926926</created>
       <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
       <option name="project" value="LOCAL" />
       <updated>1659249926926</updated>
     </task>
@@ -794,7 +765,6 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonLearn$os1.coverage" NAME="os模块1 Coverage Results" MODIFIED="1574476750695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10-模块" />
