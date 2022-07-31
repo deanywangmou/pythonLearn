@@ -24,7 +24,7 @@ print(time.strftime("%Y-%m-%d %X", time.localtime()))  # 将结构化时间转�
 # print(strWeekNum)
 
 
-print(time.strptime("2018:10:23:20:29:39", "%Y:%m:%d:%X"))  # 将字符串时间转换成结构化时间strptime
+print('strptime:',time.strptime("2018:10:23:20:29:39", "%Y:%m:%d:%X"))  # 将字符串时间转换成结构化时间strptime
 print(time.asctime())  # 结构化时间转化成字符串时间
 print(time.ctime())  # 时间戳转化成字符串时间
 

@@ -7,7 +7,7 @@
 import  smtplib
 from  email.mime.text import MIMEText
 
-class sendmail:
+class Sendmail:
 
     def  send_mail(self,path):
         f=open(path,'rb')
@@ -17,11 +17,11 @@ class sendmail:
         host="smtp.163.com"
         port=465
         sender='243688409@qq.com'
-        pwd="sdkshdf" #ÓĞĞ©ÅäÖÃµÄÊÚÈ¨Âë
+        pwd="sdkshdf" #æœ‰äº›é…ç½®çš„æˆæƒç 
         receiver='243688409@qq.com'
 
         msg=MIMEText(mail_body,'HTML','UTF-8')
-        msg['subject']="api²âÊÔ±¨¸æ·¢ËÍ"
+        msg['subject']="apiæµ‹è¯•æŠ¥å‘Šå‘é€"
         msg['from']=sender
         msg['to']=receiver
 

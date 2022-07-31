@@ -1,0 +1,35 @@
+test_add_methon (unittest_api.test_unitest_methon.TestMathMethon) ... FAIL
+test_chengfa_methon (unittest_api.test_unitest_methon.TestMathMethon) ... ok
+test_chufa_methon (unittest_api.test_unitest_methon.TestMathMethon) ... FAIL
+test_add_methon2 (unittest_api.test_unitest_methon.TestMathMethon2) ... ok
+test_chengfa_methon2 (unittest_api.test_unitest_methon.TestMathMethon2) ... FAIL
+test_chufa_methon2 (unittest_api.test_unitest_methon.TestMathMethon2) ... ok
+
+======================================================================
+FAIL: test_add_methon (unittest_api.test_unitest_methon.TestMathMethon)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\gitdocment\pythonLearn\unittest_api\test_unitest_methon.py", line 24, in test_add_methon
+    self.assertEqual(res,2,msg='结果错误')
+AssertionError: 3 != 2 : 结果错误
+
+======================================================================
+FAIL: test_chufa_methon (unittest_api.test_unitest_methon.TestMathMethon)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\gitdocment\pythonLearn\unittest_api\test_unitest_methon.py", line 34, in test_chufa_methon
+    self.assertEqual(res,2,msg='结果错误')
+AssertionError: 0.5 != 2 : 结果错误
+
+======================================================================
+FAIL: test_chengfa_methon2 (unittest_api.test_unitest_methon.TestMathMethon2)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\gitdocment\pythonLearn\unittest_api\test_unitest_methon.py", line 45, in test_chengfa_methon2
+    self.assertEqual(res,4,msg='结果错误')
+AssertionError: 8 != 4 : 结果错误
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.002s
+
+FAILED (failures=3)

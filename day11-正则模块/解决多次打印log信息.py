@@ -6,7 +6,7 @@ class Logger:
     def log(self):
         #创建一个日志器
         logger = logging.getLogger("logger")
-        #设置日志输出最低登记，低于当前等级就会被忽略
+        #设置日志输出最低等级，低于当前等级就会被忽略
         logger.setLevel("DEBUG")
         if not logger.handlers:
             # 创建处理器

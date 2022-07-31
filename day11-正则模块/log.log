@@ -75,3 +75,42 @@
 2021-05-05-18:49:43 logger3.py ERROR m+2计算错误can only concatenate str (not "int") to str
 2021-05-05-18:49:43 logger3.py ERROR m+2计算错误can only concatenate str (not "int") to str
 2021-05-05-18:56:39 解决多次打印log信息.py INFO 1+2之和为3
+2022-07-11-10:11:42 logger3.py INFO 1+2之和为3
+2022-07-11-10:11:42 logger3.py ERROR m+2计算错误can only concatenate str (not "int") to str
+2022-07-11-10:11:42 logger3.py ERROR m+2计算错误can only concatenate str (not "int") to str
+2022-07-11-10:12:29 logger3.py DEBUG 调试debug
+2022-07-11-10:12:29 logger3.py INFO 消息info
+2022-07-11-10:12:29 logger3.py WARNING 警告warn
+2022-07-11-10:12:29 logger3.py ERROR 错误error
+2022-07-11-10:12:29 logger3.py CRITICAL 严重critical
+2022-07-11-10:12:29 logger3.py INFO 1+2之和为3
+2022-07-11-10:12:29 logger3.py DEBUG 调试debug
+2022-07-11-10:12:29 logger3.py DEBUG 调试debug
+2022-07-11-10:12:29 logger3.py INFO 消息info
+2022-07-11-10:12:29 logger3.py INFO 消息info
+2022-07-11-10:12:29 logger3.py WARNING 警告warn
+2022-07-11-10:12:29 logger3.py WARNING 警告warn
+2022-07-11-10:12:29 logger3.py ERROR 错误error
+2022-07-11-10:12:29 logger3.py ERROR 错误error
+2022-07-11-10:12:29 logger3.py CRITICAL 严重critical
+2022-07-11-10:12:29 logger3.py CRITICAL 严重critical
+2022-07-11-10:12:29 logger3.py ERROR m+2计算错误can only concatenate str (not "int") to str
+2022-07-11-10:12:29 logger3.py ERROR m+2计算错误can only concatenate str (not "int") to str
+2022-07-11-10:12:29 logger3.py DEBUG 调试debug
+2022-07-11-10:12:29 logger3.py DEBUG 调试debug
+2022-07-11-10:12:29 logger3.py DEBUG 调试debug
+2022-07-11-10:12:29 logger3.py INFO 消息info
+2022-07-11-10:12:29 logger3.py INFO 消息info
+2022-07-11-10:12:29 logger3.py INFO 消息info
+2022-07-11-10:12:29 logger3.py WARNING 警告warn
+2022-07-11-10:12:29 logger3.py WARNING 警告warn
+2022-07-11-10:12:29 logger3.py WARNING 警告warn
+2022-07-11-10:12:29 logger3.py ERROR 错误error
+2022-07-11-10:12:29 logger3.py ERROR 错误error
+2022-07-11-10:12:29 logger3.py ERROR 错误error
+2022-07-11-10:12:29 logger3.py CRITICAL 严重critical
+2022-07-11-10:12:29 logger3.py CRITICAL 严重critical
+2022-07-11-10:12:29 logger3.py CRITICAL 严重critical
+2022-07-11-10:12:29 logger3.py INFO 3+2之和为5
+2022-07-11-10:12:29 logger3.py INFO 3+2之和为5
+2022-07-11-10:12:29 logger3.py INFO 3+2之和为5

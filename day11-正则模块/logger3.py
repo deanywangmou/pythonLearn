@@ -36,3 +36,4 @@ class Logger:
 
 Logger().sum(1, 2)
 Logger().sum('m', 2)
+Logger().sum(3, 2)

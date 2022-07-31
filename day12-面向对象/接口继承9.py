@@ -25,10 +25,3 @@ class Mem(All_file):
 ds = Disk()
 cd = Cdrom()
 me = Mem()
-
-ds.read()
-ds.write()
-cd.read()
-cd.write()
-me.read()
-me.write()
